@@ -1,5 +1,8 @@
 roeey,dankorenfeld
 
+![](/cat.png)
+![](/catArt.png)
+
 1.
     ### Overall Design - UML
     We've used the MVC pattern (Model-View-Controller).
